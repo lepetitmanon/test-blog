@@ -1,0 +1,34 @@
+
+.header {
+    padding: 150px;
+    background-image: url(images/Betterave.png);
+    background-size: contain;
+    opacity: 1;
+
+    /* background: linear-gradient(to right, #ACBB78, #F7F8F8 ); */
+}
+
+h1 {
+    color: rgba(145, 124, 120 , 1); 
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 3.5em; 
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.8em;
+    color: rgb(183, 148, 146);
+}
+
+body {
+    margin: 1;
+    background-color: rgb(234, 225, 223);
+    color: rgb(84, 94, 86);
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+}
